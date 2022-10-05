@@ -38,9 +38,12 @@ Jianhui Chen, Fangrui Zhu, James J. Little.
 Service
 ======
 
+Program Committe Member (Reviewer)
+* ICCV 2021, ECCV 2022, BMVC 2022, CVPR 2022
 
 Honors & Awards
 ======
+
 * ’GouXiong Hui’ data mining project funding, 2019
 * Shanghai Outstanding Graduate Student Award (top 5%) 2018
 * CSC and Mitacs Funding for undergraduate internship, 2017
