@@ -8,4 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student supervised by [Dr. Huaizu Jiang](https://jianghz.me/) at Khoury College of Computer Science, Northeastern University. Before that, I received my B.Eng. from Tongji University and MS. from Fudan University. My research interests mainly focus on human-centric visual reasoning and self-supervised learning. Here is my [curriculum vita](https://fangruizhu.github.io/files/resume_Fangrui_Zhu.pdf).
+I am Fangrui Zhu, a second-year Ph.D. student supervised by [Dr. Huaizu Jiang](https://jianghz.me/) at Khoury College of Computer Science, Northeastern University. Before that, I received my B.Eng. from Tongji University and MS. from Fudan University. My research interests mainly focus on human-centric visual reasoning and self-supervised learning. Here is my [resume](https://fangruizhu.github.io/files/resume_Fangrui_Zhu.pdf).
+
+
+Publication & Manuscript
+======
+
+* A Unified Efficient Pyramid Transformer for Semantic Segmentation  
+  Fangrui Zhu, Yi Zhu, Li Zhang, Chongruo Wu, Yanwei Fu, Mu Li.  
+  2021 Proceedings of the IEEE/CVF International Conference on Computer Vision Workshop(ICCVW), 2667-2677.
+
+* Self-supervised Video Object Segmentation  
+  Fangrui Zhu, Li Zhang, Yanwei Fu, Guodong Guo, Weidi Xie.  
+  arXiv
+
+* Long-Term Cloth-Changing Person Re-identification  
+  Xuelin Qian, Wenxuan Wang, Li Zhang, Fangrui Zhu, Yanwei Fu, Tao Xiang, YuGang Jiang, Xiangyang Xue.  
+  2020 IEEE Asian Conference on Computer Vision (ACCV).
+
+* Main-Secondary Network for Defect Segmentation of Textured Surface Images  
+  Yu Xie, Fangrui Zhu, Yanwei Fu.  
+  2020 IEEE Winter Conference on Applications of Computer Vision (WACV), 3531-3540.
+
+* A Two-Point Method for PTZ Camera Calibration in Sports  
+Jianhui Chen, Fangrui Zhu, James J. Little.  
+2018 IEEE Winter Conference on Applications of Computer Vision (WACV), 287–295.
+
+
+Service
+======
+
+
+Honors & Awards
+======
+* ’GouXiong Hui’ data mining project funding, 2019
+* Shanghai Outstanding Graduate Student Award (top 5%) 2018
+* CSC and Mitacs Funding for undergraduate internship, 2017
+* ’Bo Shi’ Scholarship 2017
+* Tongji Outstanding Undergraduate Student (top 5%) 2016
+* First prize, Award on Tongji Excellent Student Scholarship (top 5%) 2016
+* Tongji Outstanding Undergraduate Student (top 5%) 2015
+* First prize, Award on Tongji Excellent Student Scholarship (top 5%) 2015
+* Shanghai Technological Innovation Projects for Undergraduates 2015
