@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Fangrui Zhu, a second-year Ph.D. student supervised by [Dr. Huaizu Jiang](https://jianghz.me/) at Khoury College of Computer Science, Northeastern University. Before that, I received my B.Eng. from Tongji University and MS. from Fudan University. My research interests mainly focus on human-centric visual reasoning and self-supervised learning. Here is my [resume](https://fangruizhu.github.io/files/resume_Fangrui_Zhu.pdf).
+I am Fangrui Zhu (朱方瑞), a second-year Ph.D. student supervised by [Dr. Huaizu Jiang](https://jianghz.me/) at Khoury College of Computer Science, Northeastern University. Before that, I received my B.Eng. from Tongji University and MS. from Fudan University. My research interests mainly focus on human-centric visual reasoning and self-supervised learning. Here is my [resume](https://fangruizhu.github.io/files/resume_Fangrui_Zhu.pdf).
 
 
 Publication & Manuscript
