@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Fangrui Zhu (朱方瑞), a second-year Ph.D. student supervised by [Dr. Huaizu Jiang](https://jianghz.me/) at Khoury College of Computer Science, Northeastern University. Before that, I received my B.Eng. from Tongji University and MS. from Fudan University. My research interests mainly focus on human-centric visual reasoning and self-supervised learning. Here is my [resume](https://fangruizhu.github.io/files/resume_Fangrui_Zhu.pdf).
+I am Fangrui Zhu (朱方瑞), a third-year Ph.D. student supervised by [Prof. Huaizu Jiang](https://jianghz.me/) at Khoury College of Computer Science, Northeastern University. Before that, I received my B.Eng. from Tongji University and MS. from Fudan University. My research interests mainly focus on Multi-modal visual relationship detection and visual grounding. Here is my [resume](https://fangruizhu.github.io/files/resume_Fangrui_Zhu.pdf).
 
 
 Publication & Manuscript
 ======
+* A Versatile Transformer for Unified, Flexible, and Open-vocabulary Visual Relationship Detection (under review)  
+  **Fangrui Zhu**, Jianwei Yang, Huaizu Jiang.  
 
+* [Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions](https://arxiv.org/pdf/2311.17048.pdf) (under review)  
+  Zeyu Han, **Fangrui Zhu**, Qianru Lao, Huaizu Jiang.
+
+* [Diagnosing Error in Human-object Interaction Detectors](https://arxiv.org/pdf/2308.08529.pdf) (under review)  
+  **Fangrui Zhu**, Yiming Xie, Weidi Xie, Huaizu Jiang. 
+ 
 * [A Unified Efficient Pyramid Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021W/VSPW/html/Zhu_A_Unified_Efficient_Pyramid_Transformer_for_Semantic_Segmentation_ICCVW_2021_paper.html)  
   **Fangrui Zhu**, Yi Zhu, Li Zhang, Chongruo Wu, Yanwei Fu, Mu Li.  
   2021 Proceedings of the IEEE/CVF International Conference on Computer Vision Workshop(ICCVW), 2667-2677.
@@ -39,7 +47,7 @@ Service
 ======
 
 Program Committe Member (Reviewer)
-* ICCV 2021, ECCV 2022, BMVC 2022, CVPR 2022
+* ICCV 2021, ECCV 2022, BMVC 2022, CVPR 2022, ICCV 2023, CVPR 2023
 
 Honors & Awards
 ======
@@ -47,9 +55,6 @@ Honors & Awards
 * ’GouXiong Hui’ data mining project funding, 2019
 * Shanghai Outstanding Graduate Student Award (top 5%) 2018
 * CSC and Mitacs Funding for undergraduate internship, 2017
-* ’Bo Shi’ Scholarship 2017
-* Tongji Outstanding Undergraduate Student (top 5%) 2016
-* First prize, Award on Tongji Excellent Student Scholarship (top 5%) 2016
-* Tongji Outstanding Undergraduate Student (top 5%) 2015
-* First prize, Award on Tongji Excellent Student Scholarship (top 5%) 2015
+* Tongji Outstanding Undergraduate Student (top 5%) 2015,2016
+* First prize, Award on Tongji Excellent Student Scholarship (top 5%) 2015,2016
 * Shanghai Technological Innovation Projects for Undergraduates 2015
